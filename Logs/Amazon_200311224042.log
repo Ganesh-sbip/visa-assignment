@@ -1,0 +1,37 @@
+2020-03-11 22:40:42 INFO  Log:28 - Info : -------Starting of Testcase---------
+2020-03-11 22:40:42 INFO  Log:39 - Info : SCENARIO Started - Amazon SG - Login using valid credentials
+2020-03-11 22:40:42 INFO  Log:39 - Info : Initializing Driver - New
+2020-03-11 22:40:42 INFO  Log:39 - Info : Browser - Chrome
+2020-03-11 22:40:42 INFO  Log:39 - Info : Chrome options are set:/nCapabilities {browserName: chrome}
+2020-03-11 22:40:49 INFO  Log:39 - Info : Wait for page to load
+2020-03-11 22:40:49 INFO  Log:39 - Info : Maximum wait for - 2
+2020-03-11 22:40:49 INFO  Log:39 - Info : Page Load Status - complete
+2020-03-11 22:40:49 INFO  Log:39 - Invoked Chrome driver successfully
+2020-03-11 22:40:49 INFO  Log:39 - Info : Desktop Driver initialized
+2020-03-11 22:40:49 INFO  Log:39 - Info : Wait for page to load...
+2020-03-11 22:40:49 INFO  Log:39 - Info : ===>>> Check if user is landed on amazon login page
+2020-03-11 22:40:49 INFO  Log:39 - PassVerify on main page
+2020-03-11 22:40:49 INFO  Log:39 - Info : ===>>> Enter username valid
+2020-03-11 22:40:50 INFO  Log:39 - Pass : [EW] Enter text - [[ChromeDriver: chrome on XP (10b8efa73e907cc0255273ae23de95be)] -> id: ap_email]; Value - ganesh.shine87@gmail.com
+2020-03-11 22:40:50 INFO  Log:39 - Info : ===>>> Continue to the next page
+2020-03-11 22:40:50 INFO  Log:39 - Info : [EW] Waiting for element - [[ChromeDriver: chrome on XP (10b8efa73e907cc0255273ae23de95be)] -> id: continue]
+2020-03-11 22:40:50 INFO  Log:39 - Pass : [EW] Element found - [[ChromeDriver: chrome on XP (10b8efa73e907cc0255273ae23de95be)] -> id: continue]
+2020-03-11 22:40:51 INFO  Log:39 - Pass : [EW] Element clicked - Proxy element for: DefaultElementLocator 'By.id: continue'
+2020-03-11 22:40:51 INFO  Log:39 - Info : ===>>> Enter password valid
+2020-03-11 22:40:51 INFO  Log:39 - Pass : [EW] Enter text - [[ChromeDriver: chrome on XP (10b8efa73e907cc0255273ae23de95be)] -> id: ap_password]; Value - Newpass@020
+2020-03-11 22:40:51 INFO  Log:39 - Info : ===>>> Submit user credentials
+2020-03-11 22:40:51 INFO  Log:39 - Info : [EW] Waiting for element - [[ChromeDriver: chrome on XP (10b8efa73e907cc0255273ae23de95be)] -> id: signInSubmit]
+2020-03-11 22:40:52 INFO  Log:39 - Pass : [EW] Element found - [[ChromeDriver: chrome on XP (10b8efa73e907cc0255273ae23de95be)] -> id: signInSubmit]
+2020-03-11 22:40:54 INFO  Log:39 - Pass : [EW] Element clicked - Proxy element for: DefaultElementLocator 'By.id: signInSubmit'
+2020-03-11 22:40:54 INFO  Log:39 - Info : Wait for page to load...
+2020-03-11 22:40:54 INFO  Log:39 - Info : ===>>> Verify landed on Home screen
+2020-03-11 22:40:54 INFO  Log:39 - PassVerify amazon logo is displayed
+2020-03-11 22:40:54 INFO  Log:39 - PassVerify left navigation menu is displayed
+2020-03-11 22:40:56 INFO  Log:39 - PassVerify left navigation menu is displayed
+2020-03-11 22:40:56 INFO  Log:39 - Info : After scenario
+2020-03-11 22:40:56 INFO  Log:39 - Info : RESULT - passed -- Scenario : Amazon SG - Login using valid credentials
+2020-03-11 22:40:57 INFO  Log:39 - Info : Driver quits...
+2020-03-11 22:40:57 INFO  Log:34 - Info : -------End of Testcase---------End Test Case-------
+2020-03-11 22:40:57 INFO  Log:39 - Info : Loading config properties
+2020-03-11 22:40:57 INFO  Log:39 - Info : Loading Test Data
+2020-03-11 22:40:57 INFO  Log:39 - Info : Read properties successfully

@@ -1,0 +1,33 @@
+2020-03-11 22:40:29 INFO  Log:28 - Info : -------Starting of Testcase---------
+2020-03-11 22:40:29 INFO  Log:39 - Info : SCENARIO Started - Amazon SG - Login using invalid password
+2020-03-11 22:40:29 INFO  Log:39 - Info : Initializing Driver - New
+2020-03-11 22:40:29 INFO  Log:39 - Info : Browser - Chrome
+2020-03-11 22:40:29 INFO  Log:39 - Info : Chrome options are set:/nCapabilities {browserName: chrome}
+2020-03-11 22:40:37 INFO  Log:39 - Info : Wait for page to load
+2020-03-11 22:40:37 INFO  Log:39 - Info : Maximum wait for - 2
+2020-03-11 22:40:37 INFO  Log:39 - Info : Page Load Status - complete
+2020-03-11 22:40:37 INFO  Log:39 - Invoked Chrome driver successfully
+2020-03-11 22:40:37 INFO  Log:39 - Info : Desktop Driver initialized
+2020-03-11 22:40:37 INFO  Log:39 - Info : Wait for page to load...
+2020-03-11 22:40:37 INFO  Log:39 - Info : ===>>> Check if user is landed on amazon login page
+2020-03-11 22:40:37 INFO  Log:39 - PassVerify on main page
+2020-03-11 22:40:37 INFO  Log:39 - Info : ===>>> Enter username valid
+2020-03-11 22:40:37 INFO  Log:39 - Pass : [EW] Enter text - [[ChromeDriver: chrome on XP (55d253fa51443d9af419f2f00ce8265e)] -> id: ap_email]; Value - ganesh.shine87@gmail.com
+2020-03-11 22:40:37 INFO  Log:39 - Info : ===>>> Continue to the next page
+2020-03-11 22:40:37 INFO  Log:39 - Info : [EW] Waiting for element - [[ChromeDriver: chrome on XP (55d253fa51443d9af419f2f00ce8265e)] -> id: continue]
+2020-03-11 22:40:37 INFO  Log:39 - Pass : [EW] Element found - [[ChromeDriver: chrome on XP (55d253fa51443d9af419f2f00ce8265e)] -> id: continue]
+2020-03-11 22:40:39 INFO  Log:39 - Pass : [EW] Element clicked - Proxy element for: DefaultElementLocator 'By.id: continue'
+2020-03-11 22:40:39 INFO  Log:39 - Info : ===>>> Enter password invalid
+2020-03-11 22:40:39 INFO  Log:39 - Pass : [EW] Enter text - [[ChromeDriver: chrome on XP (55d253fa51443d9af419f2f00ce8265e)] -> id: ap_password]; Value - test123
+2020-03-11 22:40:39 INFO  Log:39 - Info : ===>>> Submit user credentials
+2020-03-11 22:40:39 INFO  Log:39 - Info : [EW] Waiting for element - [[ChromeDriver: chrome on XP (55d253fa51443d9af419f2f00ce8265e)] -> id: signInSubmit]
+2020-03-11 22:40:39 INFO  Log:39 - Pass : [EW] Element found - [[ChromeDriver: chrome on XP (55d253fa51443d9af419f2f00ce8265e)] -> id: signInSubmit]
+2020-03-11 22:40:41 INFO  Log:39 - Pass : [EW] Element clicked - [[ChromeDriver: chrome on XP (55d253fa51443d9af419f2f00ce8265e)] -> id: signInSubmit]
+2020-03-11 22:40:41 INFO  Log:39 - Info : ===>>> Verify invalid error message is displayed in password
+2020-03-11 22:40:41 INFO  Log:39 - Info : After scenario
+2020-03-11 22:40:41 INFO  Log:39 - Info : RESULT - passed -- Scenario : Amazon SG - Login using invalid password
+2020-03-11 22:40:41 INFO  Log:39 - Info : Driver quits...
+2020-03-11 22:40:42 INFO  Log:34 - Info : -------End of Testcase---------End Test Case-------
+2020-03-11 22:40:42 INFO  Log:39 - Info : Loading config properties
+2020-03-11 22:40:42 INFO  Log:39 - Info : Loading Test Data
+2020-03-11 22:40:42 INFO  Log:39 - Info : Read properties successfully

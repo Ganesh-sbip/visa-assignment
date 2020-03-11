@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="amazon.runner.TestRunner" time="122.093" tests="43" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.1+13-LTS"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.1\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:/Users/RekhaGanesh/Desktop/GANESH/emerio-assignment/updateingit/visa-assignment"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="SG"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\RekhaGanesh\Desktop\GANESH\emerio-assignment\updateingit\visa-assignment"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="11.0.1+13-LTS"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\REKHAG~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:/Program Files/apache-maven-3.6.0/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\RekhaGanesh\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\RekhaGanesh\bin;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\AndroidSDK\platform-tools;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\AndroidSDK\tools;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite;C:\Tosca_Projects;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\GuptaEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\DelphiEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\PBEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\VBEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\DotNetHooking;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Resources\Mobile\Tools;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk-11.0.1\bin;C:\Program Files\apache-maven-3.6.0\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Gradle\gradle-5.2.1\bin;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\Users\RekhaGanesh\Documents\node-v12.14.1-win-x64;C:\Users\RekhaGanesh\Documents\node-v12.14.1-win-x64\node_modules\npm\bin;C:\Program Files (x86)\Yarn\bin;C:\Users\RekhaGanesh\AppData\Local\Programs\Python\Python38-32\Scripts;C:\Users\RekhaGanesh\AppData\Local\Programs\Python\Python38-32;C:\Ruby25-x64\bin;C:\Users\RekhaGanesh\AppData\Local\Microsoft\WindowsApps;C:\Program Files\apache-maven-3.6.0\bin;C:\Users\RekhaGanesh\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\AndroidSDK\platform-tools;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3.5\bin;C:\Users\RekhaGanesh\Documents\ruby-2.7.0\bin;C:\Users\RekhaGanesh\AppData\Local\Yarn\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="maven.conf" value="C:/Program Files/apache-maven-3.6.0/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:/Program Files/apache-maven-3.6.0/lib/jansi-native"/>
+    <property name="user.home" value="C:\Users\RekhaGanesh"/>
+    <property name="user.timezone" value="Asia/Singapore"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="RekhaGanesh"/>
+    <property name="java.class.path" value="C:/Program Files/apache-maven-3.6.0/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.1"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.1"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\apache-maven-3.6.0"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2018-10-16"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="Given I&apos;m on amazon login page" classname="Scenario: Amazon SG -  Login using invalid username" time="0.002"/>
+  <testcase name="When I enter &quot;invalid&quot; username" classname="Scenario: Amazon SG -  Login using invalid username" time="0"/>
+  <testcase name="And I continue to the next page" classname="Scenario: Amazon SG -  Login using invalid username" time="0"/>
+  <testcase name="Then I verify if invalid &quot;username&quot; error message is displayed" classname="Scenario: Amazon SG -  Login using invalid username" time="0"/>
+  <testcase name="Scenario: Amazon SG -  Login using invalid username" classname="Scenario: Amazon SG -  Login using invalid username" time="1.341"/>
+  <testcase name="Given I&apos;m on amazon login page" classname="Scenario: Amazon SG - Login using invalid password" time="0"/>
+  <testcase name="When I enter &quot;valid&quot; username" classname="Scenario: Amazon SG - Login using invalid password" time="0"/>
+  <testcase name="And I continue to the next page" classname="Scenario: Amazon SG - Login using invalid password" time="0"/>
+  <testcase name="And I enter &quot;invalid&quot; password" classname="Scenario: Amazon SG - Login using invalid password" time="0"/>
+  <testcase name="And I submit the user credentials" classname="Scenario: Amazon SG - Login using invalid password" time="0"/>
+  <testcase name="Then I verify if invalid &quot;password&quot; error message is displayed" classname="Scenario: Amazon SG - Login using invalid password" time="0"/>
+  <testcase name="Scenario: Amazon SG - Login using invalid password" classname="Scenario: Amazon SG - Login using invalid password" time="1.362"/>
+  <testcase name="Given I&apos;m on amazon login page" classname="Scenario: Amazon SG - Login using valid credentials" time="0"/>
+  <testcase name="When I enter &quot;valid&quot; username" classname="Scenario: Amazon SG - Login using valid credentials" time="0"/>
+  <testcase name="And I continue to the next page" classname="Scenario: Amazon SG - Login using valid credentials" time="0"/>
+  <testcase name="And I enter &quot;valid&quot; password" classname="Scenario: Amazon SG - Login using valid credentials" time="0"/>
+  <testcase name="And I submit the user credentials" classname="Scenario: Amazon SG - Login using valid credentials" time="0"/>
+  <testcase name="Then I verify I am landed on Home screen" classname="Scenario: Amazon SG - Login using valid credentials" time="0"/>
+  <testcase name="Scenario: Amazon SG - Login using valid credentials" classname="Scenario: Amazon SG - Login using valid credentials" time="1.473"/>
+  <testcase name="Given I&apos;m on amazon login page" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="When I enter &quot;valid&quot; username" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="When I enter &quot;valid&quot; username" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="And I continue to the next page" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="And I continue to the next page" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="And I enter &quot;valid&quot; password" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="And I enter &quot;valid&quot; password" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="And I submit the user credentials" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="And I submit the user credentials" classname="Scenario: Amazon SG - Add a product to bag" time="0.001"/>
+  <testcase name="Then I verify I am landed on Home screen" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="Then I verify I am landed on Home screen" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="When I search for a product" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="Then I verify product search results is displayed" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="When I add product with index &quot;1&quot; from search list to bag" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="Then I verify I am landed on product page" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="When I select &quot;1&quot; product quantity" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="And I capture the product details" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="And I add the product to cart" classname="Scenario: Amazon SG - Add a product to bag" time="0.001"/>
+  <testcase name="Then I verify the product details in cart page" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="Then I verify the product details in cart page" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="When I logout from the amazon website" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="Then I verify I am landed on signin page" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="And I navigate to cart page" classname="Scenario: Amazon SG - Add a product to bag" time="0"/>
+  <testcase name="Scenario: Amazon SG - Add a product to bag" classname="Scenario: Amazon SG - Add a product to bag" time="1.64"/>
+</testsuite>
